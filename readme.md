@@ -1,4 +1,4 @@
-# Gradle Plugin : Include Properties
+# Gradle Plugin : Include Subproject Source
 
 - License: MIT
 
