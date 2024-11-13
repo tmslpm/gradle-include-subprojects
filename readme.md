@@ -14,6 +14,6 @@ plugins {
 }
 
 includeSubprojectSource {
-  subprojectNames = ["Common"]
+  subprojectNames = ["common"]
 }
 ```
